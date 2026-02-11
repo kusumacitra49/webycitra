@@ -1,5 +1,4 @@
-body
-{
+body{
     background:pink;
     color:#333;
     width:100%;
@@ -12,15 +11,15 @@ body
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
+    background:#333;
     color:#fff
 }
 
 .jarak{
     padding:0 2pc;
 }
- .menu{
-     background-color:#417aa8;
+.menu{
+     background-color:pink;
      height:50px;
      line-height:50px;
      position:relative;
@@ -29,11 +28,11 @@ body
      padding:0 auto;
  }
 
-.menu ul {
-    list-style:non;
+.menu ul{
+    list-style:none;
 }
 
-.menu ul li a {
+.menu ul li a{
     float:left;
     width:70px;
     display:block;
@@ -42,10 +41,11 @@ body
     text-decoration:none;
 }
 
-.menu ul li:hover {
-    background-color:#4b88bb;
+.menu ul li:hover{
+    background-color:#FFFFFF;
     display:block;
 }
+
 
 
 
