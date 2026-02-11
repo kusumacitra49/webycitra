@@ -30,7 +30,7 @@ body
  }
 
 .menu ul {
-    list-style:non:
+    list-style:non;
 }
 
 .menu ul li a {
@@ -44,7 +44,8 @@ body
 
 .menu ul li:hover {
     background-color:#4b88bb;
-    display;block;
+    display:block;
 }
+
 
 
