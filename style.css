@@ -18,8 +18,9 @@ body{
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
-     background-color:pink;
+     background-color:#333;
      height:50px;
      line-height:50px;
      position:relative;
@@ -28,11 +29,11 @@ body{
      padding:0 auto;
  }
 
-.menu ul{
+.menu ul {
     list-style:none;
 }
 
-.menu ul li a{
+.menu ul li a {
     float:left;
     width:70px;
     display:block;
@@ -41,10 +42,11 @@ body{
     text-decoration:none;
 }
 
-.menu ul li:hover{
+.menu ul li a:hover {
     background-color:#FFFFFF;
     display:block;
 }
+
 
 
 
