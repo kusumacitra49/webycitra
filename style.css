@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:pink;
+    background-color:#FFFFFF;
     display:block;
 }
 
@@ -93,6 +93,7 @@ body{
     coloe:#fff;
     margin-bottom:1pc;
 }
+
 
 
 
