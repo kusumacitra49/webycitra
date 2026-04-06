@@ -62,17 +62,14 @@ body{
     padding-bottom:1pc;
     padding-left:2pc;
     padding-right:2pc;
-    box-sizing:border-box;
-    width:100%;
 }
 
 .kiri{
-    width:65%;
+    width:70%;
     float:left;
     margin:auto;
     background:#fff;
     height:420px;
-    padding-left:20px;
 }
 
 .kanan{
