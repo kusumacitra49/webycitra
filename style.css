@@ -62,6 +62,8 @@ body{
     padding-bottom:1pc;
     padding-left:2pc;
     padding-right:2pc;
+    box-sizing:border-box;
+    width:100%;
 }
 
 .kiri{
@@ -70,6 +72,7 @@ body{
     margin:auto;
     background:#fff;
     height:420px;
+    padding-left:20px;
 }
 
 .kanan{
@@ -78,6 +81,7 @@ body{
     margin:auto;
     background:#fff;
     height:420px;
+    margin-top:0;
 }
 
 .undecor{
