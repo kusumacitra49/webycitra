@@ -67,7 +67,7 @@ body{
 }
 
 .kiri{
-    width:70%;
+    width:65%;
     float:left;
     margin:auto;
     background:#fff;
@@ -81,6 +81,11 @@ body{
     margin:auto;
     background:#fff;
     height:420px;
+    margin-top:0;
+    padding-left:20px;
+}
+
+.kanan h3{
     margin-top:0;
 }
 
